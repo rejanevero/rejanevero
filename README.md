@@ -1,3 +1,6 @@
+# 👩🏻‍💻 Rejane Verônica
+
+**`Desenvolvedora FullStack`**
 ![github-header-image](https://github.com/user-attachments/assets/5f36eed9-a1bd-4b17-b49b-29984ae29616)
 
 ##
