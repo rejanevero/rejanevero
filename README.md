@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/user-attachments/assets/5f36eed9-a1bd-4b17-b49b-29984ae29616)
+
 <h2 style="text-align: justify;"> Olá, eu sou a Rejane Verônica, estudante dos cursos técnicos em Desenvolvimento de Sistemas e Informática para Internet. Estou constantemente em busca de aprimorar minhas competências técnicas e interpessoais.</h2>
 
 ##
