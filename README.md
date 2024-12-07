@@ -1,4 +1,4 @@
-<h2> Olá,  eu sou a Rejane Verônica, estudante de programação e tecnologia!</h2>
+<h2 style="text-align: justify;"> Olá, eu sou a Rejane Verônica, técnica em Desenvolvimento de Sistemas (em formação, com conclusão prevista para julho de 2025) e técnica em Informática para Internet (em formação, com conclusão prevista para abril de 2026), possuo especialização técnica em Gestão de Projetos concluída em 2023. Com experiência profissional no Centro Paula Souza, atuando como monitora em disciplinas de Gestão de Marketing, prestando suporte acadêmico na elaboração de materiais didáticos e atividades em sala de aula. Também exerci a função de estagiária na Secretaria Acadêmica, onde desenvolvi competências em gestão documental, atendimento ao público e suporte administrativo. Complemento minha formação com cursos de Desenvolvimento Mobile, Lógica de Programação, Desenvolvimento Web e Banco de Dados pelo programa Novotec Virtual. Busco continuamente o aprimoramento de suas habilidades técnicas e interpessoais.</h2>
 
 
 <div style="display: inline_block"><br>
