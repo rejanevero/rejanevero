@@ -19,6 +19,20 @@
   <img align="center" alt="Rejane-nodejs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Rejane-php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Rejane-bootstrap" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Rejane-visualstudio" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Rejane-dotnetcore" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Rejane-eclipse" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
+  <img align="center" alt="Rejane-apache" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
+  <img align="center" alt="Rejane-android" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg">
+  <img align="center" alt="Rejane-canva" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+          
+          
+          
+          
+          
+          
+          
+          
   
           
   
