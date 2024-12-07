@@ -1,5 +1,10 @@
 <h2 style="text-align: justify;"> Olá, eu sou a Rejane Verônica, estudante dos cursos técnicos em Desenvolvimento de Sistemas e Informática para Internet. Fiz atividades na Faculdade Rubens Lara, atuando como monitora na disciplina acadêmica Gestão de Marketing e atuei como estagiária na Secretaria Acadêmica, desenvolvendo habilidades em gestão documental, atendimento e suporte administrativo. Estou constantemente em busca de aprimorar minhas competências técnicas e interpessoais.</h2>
 
+##
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rejanevero&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejanevero&layout=compact&theme=radical"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rejane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,13 +30,6 @@
   <img align="center" alt="Rejane-canva" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
   <img align="center" alt="Rejane-android" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg">
      </div>
-
-##
-  
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rejanevero&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejanevero&layout=compact&theme=radical"/>
-</div>
 
 ##
  
