@@ -8,14 +8,6 @@
 
 ##
 
-<h2 style="text-align: justify;"> Olá, eu sou a Rejane Verônica, estudante dos cursos técnicos em Desenvolvimento de Sistemas e Informática para Internet. Estou constantemente em busca de aprimorar minhas competências técnicas e interpessoais.</h2>
-
-##
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rejanevero&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejanevero&layout=compact&theme=radical"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rejane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rejane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -40,6 +32,17 @@
   <img align="center" alt="Rejane-canva" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
   <img align="center" alt="Rejane-android" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg">
      </div>
+
+## 
+
+<h2 style="text-align: justify;"> Olá, eu sou a Rejane Verônica, estudante dos cursos técnicos em Desenvolvimento de Sistemas e Informática para Internet. Estou constantemente em busca de aprimorar minhas competências técnicas e interpessoais.</h2>
+
+##
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rejanevero&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejanevero&layout=compact&theme=radical"/>
+</div>
 
 ##
  
