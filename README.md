@@ -1,4 +1,4 @@
-<h2 style="text-align: justify;"> Olá, eu sou a Rejane Verônica, estudante dos cursos técnicos em Desenvolvimento de Sistemas e Informática para Internet. Fiz atividades na Faculdade Rubens Lara, atuando como monitora na disciplina acadêmica Gestão de Marketing e atuei como estagiária na Secretaria Acadêmica, desenvolvendo habilidades em gestão documental, atendimento e suporte administrativo. Estou constantemente em busca de aprimorar minhas competências técnicas e interpessoais.</h2>
+<h2 style="text-align: justify;"> Olá, eu sou a Rejane Verônica, estudante dos cursos técnicos em Desenvolvimento de Sistemas e Informática para Internet. Estou constantemente em busca de aprimorar minhas competências técnicas e interpessoais.</h2>
 
 ##
 <div>
