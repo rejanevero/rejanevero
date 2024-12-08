@@ -40,8 +40,8 @@
 ##
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rejanevero&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejanevero&layout=compact&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rejanevero&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejanevero&layout=compact&theme=dark"/>
 </div>
 
 ##
