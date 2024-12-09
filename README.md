@@ -68,6 +68,6 @@
 <img src="https://komarev.com/ghpvc/?username=rejanevero&color=red&base=1000">
 <br>
 
-  Rejane Verônica &copy;
+  ###### Rejane Verônica &copy;
 
 
