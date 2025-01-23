@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rejane Verônica
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Web`**
 
 ##
 
