@@ -5,7 +5,7 @@
 ##
 
 ## Sobre mim
- 📝 Cursando o 6° semestre de Gesstão de Recursos Humanos - Fatec Baixada Santista Rubens Lara. <br>
+ 📝 Cursando o 6° semestre de Gestão de Recursos Humanos - Fatec Baixada Santista Rubens Lara. <br>
   📔 Cursando o 3º módulo do Técnico em Desenvolvimento de Sistemas - GEEAD. <br>
   📔 Cursando o 1º semestre do Técnico em Informática para Internet - Escola Técnica FAT. <br>
   🎓 Programa Oracle Next Education - Fase Seleção ONE G8 BR.<br>
