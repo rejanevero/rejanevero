@@ -6,8 +6,8 @@
 
 ## Sobre mim
  📝 Cursando o 6° semestre de Gestão de Recursos Humanos - Fatec Baixada Santista Rubens Lara. <br>  
-  📔 Cursando o 2º semestre do Técnico em Informática para Internet - Escola Técnica FAT. <br>
-   📔 Cursando o 1º semestre do Técnico em Desenvolvimento de Sistemas - Escola Técnica FAT. <br>
+  📝Cursando o 2º semestre do Técnico em Informática para Internet - Escola Técnica FAT. <br>
+   📝 Cursando o 1º semestre do Técnico em Desenvolvimento de Sistemas - Escola Técnica FAT. <br>
   🎓 Programa Oracle Next Education - Tech Foundation - Back End ONE G8 BR.<br>
   <br>
   ![Image](https://github.com/user-attachments/assets/63f9f3f4-9e6f-44d4-9587-6cc29f0d0ead)
@@ -19,16 +19,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rejane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rejane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rejane-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rejane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rejane-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">  
   <img align="center" alt="Rejane-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rejane-php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Rejane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rejane-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rejane-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Rejane-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rejane-Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rejane-visualstudio" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Rejane-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Rejane-visualstudio" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"> 
    <img align="center" alt="Rejane-mysql" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rejane-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Rejane-github" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
@@ -38,7 +35,7 @@
   <img align="center" alt="Rejane-eclipse" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
   <img align="center" alt="Rejane-apache" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
   <img align="center" alt="Rejane-canva" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-  <img align="center" alt="Rejane-android" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg">
+
      </div>
 
 ## 
