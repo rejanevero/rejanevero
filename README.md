@@ -35,7 +35,6 @@
   <img align="center" alt="Rejane-eclipse" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg">
   <img align="center" alt="Rejane-apache" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
   <img align="center" alt="Rejane-canva" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-
      </div>
 
 ## 
