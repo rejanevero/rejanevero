@@ -5,13 +5,12 @@
 ##
 
 ## Sobre mim
- 📝 Cursando o 6° semestre de Gestão de Recursos Humanos - Fatec Baixada Santista Rubens Lara. <br>
-  📔 Cursando o 3º módulo do Técnico em Desenvolvimento de Sistemas - GEEAD. <br>
+ 📝 Cursando o 6° semestre de Gestão de Recursos Humanos - Fatec Baixada Santista Rubens Lara. <br>  
   📔 Cursando o 2º semestre do Técnico em Informática para Internet - Escola Técnica FAT. <br>
    📔 Cursando o 1º semestre do Técnico em Desenvolvimento de Sistemas - Escola Técnica FAT. <br>
   🎓 Programa Oracle Next Education - Tech Foundation - Back End ONE G8 BR.<br>
   <br>
-  ![github-header-image](https://github.com/user-attachments/assets/5f36eed9-a1bd-4b17-b49b-29984ae29616)
+  ![Image](https://github.com/user-attachments/assets/63f9f3f4-9e6f-44d4-9587-6cc29f0d0ead)
 <h2 style="text-align: justify;"> Olá, eu sou a Rejane Verônica, estou constantemente em busca de aprimorar minhas competências técnicas e interpessoais.</h2>
 
 
