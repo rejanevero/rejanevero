@@ -8,7 +8,7 @@
  
   📝Cursando o 2º semestre do Técnico em Informática para Internet - Escola Técnica FAT. <br>
    📝 Cursando o 1º semestre do Técnico em Desenvolvimento de Sistemas - Escola Técnica FAT. <br>
-  🎓 Programa Oracle Next Education - Tech Foundation - Back End ONE G8 BR.<br>
+  🎓 Programa Oracle Next Education - Tech Advanced - ONE G8 BR.<br>
   <br>
   ![Image](https://github.com/user-attachments/assets/63f9f3f4-9e6f-44d4-9587-6cc29f0d0ead)
 <h2 style="text-align: justify;"> Olá, eu sou a Rejane Verônica, estou constantemente em busca de aprimorar minhas competências técnicas e interpessoais.</h2>
